@@ -45,7 +45,7 @@
                             <th>Name</th>
                             <th>View</th>
                             <th>Add Questions</th>
-                            <th>Share Options</th>
+                            <!--<th>Share Options</th>-->
                             <th>Action</th>
                         </tr>
                     </thead>
@@ -90,8 +90,7 @@
                                     </div>
                                     <!-- /modals -->
 
-                                    {{-- <a href="https://twitter.com/intent/tweet?{{ route('quiz.invite', $quiz->slug) }}" class="social-share twitter btn btn-sm btn-success">Share on Twitter</a>     --}}
-                                    <a class="social-share twitter btn btn-sm btn-success">Share on Twitter</a>
+                                   
 
                                 
                                 </th>
