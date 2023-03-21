@@ -14,7 +14,7 @@ Alternative installation is possible without local dependencies.
 
 Clone the repository
 
-    git clone https://github.com/vijaymgr/quiz.git
+    git clone https://github.com/mukeshrajbhar9456/quiz-management.git
 
 Switch to the repo folder
 
@@ -44,7 +44,7 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone https://github.com/vijaymgr/quiz.git
+    git clone https://github.com/mukeshrajbhar9456/quiz-management.git
     cd quiz
     composer install
     cp .env.example .env
@@ -83,7 +83,7 @@ The api can now be accessed at
 
 Super Admin Logind Credentials
 
-email: vijayrana.me@gmail.com
+email: mukeshrajbhar9456@gmail.com
 password: secret
 
 # Note : When a new user is registered, it is registered as a 'Admin'. 'Super Admin' can change the roles and permissions of others.
